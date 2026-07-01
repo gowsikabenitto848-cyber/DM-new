@@ -1,0 +1,5 @@
+
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://gowsikabenitto848-cyber.github.io/DM-new/sitemap
